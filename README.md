@@ -4,10 +4,11 @@ A secret secret web application that aims to modernize the user interface and us
 ## Needed Features
 - Create a secret santa group
 - Create an account or login via Facebook/Google
-- Make a wish list
-- Draw names from group without any cycles or duplicates from previous year
 - Invite users to join group
-- Organize can see who has accepted invites
+- Organizer can see who has accepted invites
+- Make a wish list
+- Create a gift exchange
+- Draw names from group without any cycles or duplicates from previous year
 
 ## Nice to have features#
 - Mark item as bought on the wishlist of non-owner
