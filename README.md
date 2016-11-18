@@ -1,7 +1,7 @@
 # Rudolph
 A secret secret web application that aims to modernize the user interface and user experience of Elfster.com
 
-### Needed Features
+## Needed Features
 - Create a secret santa group
 - Create an account or login via Facebook/Google
 - Make a wish list
